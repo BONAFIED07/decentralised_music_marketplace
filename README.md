@@ -45,6 +45,7 @@ Example Usage:
 
 Note:
 
+* There is Event notification for each of the event so you'll get desired information about whats going on with detailed indexed value if possible.
 * Ensure you have sufficient funds in your connected wallet to pay for gas fees when deploying and interacting with the contract.
 * For more complex interactions or testing on a public network, you might need to use a tool like Truffle or Hardhat.
 * Always test your contract thoroughly on a test network before deploying to a mainnet.
